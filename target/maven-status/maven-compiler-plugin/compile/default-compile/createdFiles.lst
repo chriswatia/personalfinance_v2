@@ -1,0 +1,7 @@
+com\mycompany\personalfinance_v2\PersonalFinanceUI.class
+com\mycompany\personalfinance_v2\Budget.class
+com\mycompany\personalfinance_v2\BudgetItem.class
+com\mycompany\personalfinance_v2\Expense.class
+com\mycompany\personalfinance_v2\Personalfinance.class
+com\mycompany\personalfinance_v2\PersonalFinanceController.class
+com\mycompany\personalfinance_v2\PersonalFinanceModel.class

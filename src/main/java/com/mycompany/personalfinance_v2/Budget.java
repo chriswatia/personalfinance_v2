@@ -1,4 +1,4 @@
-package com.mycompany.personalfinance_v1;
+package com.mycompany.personalfinance_v2;
 
 import java.io.Serializable;
 
